@@ -4,7 +4,7 @@ site_description: "Documentation for Pilot Project"
 site_url: "https://kansalmohit19.github.io/pilot/"
 
 # Repository info (adds edit/view on GitHub buttons)
-repo_name: "kansalmohit19/pilot"
+repo_name: "pilot"
 repo_url: "https://github.com/kansalmohit19/pilot"
 
 # Theme settings
@@ -24,9 +24,9 @@ theme:
 nav:
   - Overview: index.md
   - Sample Library:
-      - Guild: sample-library.md
+      - Guide: sample-library.md
   - ViewModel:
-      - Guild: view-model.md
+      - Guide: view-model.md
       - Examples: view-model.md
   - Changelog: change-log.md
   - Licence: license.md
