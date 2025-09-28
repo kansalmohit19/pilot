@@ -27,7 +27,7 @@ nav:
       - Guild: sample-library.md
   - ViewModel:
       - Guild: view-model.md
-      - Examples:
+      - Examples: view-model.md
   - Changelog: change-log.md
   - Licence: license.md
 
